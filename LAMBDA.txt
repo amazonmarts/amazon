@@ -1,0 +1,4 @@
+Lambda> 
+{"version":"0","id":"f562d215-adee-9dbd-f44d-d08296f039f1","detail-type":"Scheduled
+ Event","source":"aws.events","account":"165893949929","time":"2022-10-31T05:29:00Z","region":"ap-south-1","resources":
+["arn:aws:events:ap-south-1:165893949929:rule/Start"],"detail":{}}
